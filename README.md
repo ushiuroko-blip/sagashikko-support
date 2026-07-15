@@ -13,7 +13,7 @@
 ご意見・不具合報告は、このリポジトリの [Issues](../../issues) からお願いします。
 
 または以下のメールアドレスまでご連絡ください。
-- your-email@example.com
+- ushiuroko@icloud.com
 
 ## プライバシーポリシー
 
